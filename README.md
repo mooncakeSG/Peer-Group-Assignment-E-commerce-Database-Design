@@ -17,7 +17,7 @@ This repository contains a complete database design for an e-commerce platform. 
 ### Entity-Relationship Diagram
 The ERD visualizes the structure and relationships of our e-commerce database. It can be found in the `/docs` directory.
 
-![E-Commerce Database ERD](Diagram Ecommerce Erd.png)
+![E-Commerce Database ERD](https://github.com/mooncakeSG/Peer-Group-Assignment-E-commerce-Database-Design/blob/4c9acf231dc1218c87ff7da925ecaff54d62339c/Diagram%20Ecommerce%20Erd.png)
 
 ### Database Tables and Relationships
 
